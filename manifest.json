@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Kimi Cleaner",
+  "version": "1.0",
+  "description": "批量删除 Kimi 会话",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "kimi.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://kimi.moonshot.cn/*",
+        "https://www.kimi.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
