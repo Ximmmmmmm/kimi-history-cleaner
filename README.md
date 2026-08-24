@@ -1,10 +1,16 @@
-# Kimi Cleaner — Kimi 会话批量清除助手
+# Kimi Cleaner — Kimi 会话批量清除助手 🧹
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Manifest](https://img.shields.io/badge/Manifest-V3-blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ximmmmmmm/kimi-history-cleaner)
+![GitHub Repo stars](https://img.shields.io/github/stars/Ximmmmmmm/kimi-history-cleaner?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Ximmmmmmm/kimi-history-cleaner?style=social)
 
-一个基于 **Manifest V3** 的浏览器扩展，用于一键批量删除 [Kimi 智能助手](https://www.kimi.com)（`kimi.moonshot.cn` / `www.kimi.com`）的历史会话。
+**中文关键词 / Keywords**: Kimi 批量删除、Kimi 会话清理、Kimi 清空记录、Kimi history cleaner、Kimi delete all chats、月之暗面 Moonshot、Kimi 浏览器插件、Chrome extension
+
+一个基于 **Manifest V3** 的浏览器扩展，用于**一键批量删除** [Kimi 智能助手](https://www.kimi.com)（`kimi.moonshot.cn` / `www.kimi.com`）的全部历史会话。告别手动逐条删除 —— 终于可以清空 Kimi 了。
+
+> **English**: A Manifest V3 browser extension that batch-deletes all your Kimi AI chat history with one click. Supports both `kimi.com` and `kimi.moonshot.cn`.
 
 ## ✨ 功能特点
 
